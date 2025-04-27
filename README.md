@@ -39,16 +39,6 @@ cd metabase-installation
 
 # Follow the instructions in metabase.md
 ```
-
-## 📁 Repository Structure
-
-metabase-installation/
-├── README.md
-├── metabase.md
-└── configs/
-└── metabase.service
-
-
 ## ⚙️ Configuration
 
 The default configuration:
